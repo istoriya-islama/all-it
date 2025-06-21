@@ -1,5 +1,5 @@
 [build]
-  command = "bun next build"
+  command = "npm install && npm next build"
   publish = "out"
 
 [[plugins]]
