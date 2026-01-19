@@ -9,7 +9,6 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@netlify/plugin-nextjs": "^5.9.4",
     "alias": "^0.0.5",
     "child_process": "^1.0.2",
     "file-system": "^2.2.2",
