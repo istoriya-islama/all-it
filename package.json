@@ -17,7 +17,6 @@
     "mustard-ui": "^1.0.4",
     "navigator": "^1.0.1",
     "net": "^1.0.2",
-    "netlify-cli": "^19.0.0",
     "next": "^15.0.4-canary.51",
     "node": "^22.12.0",
     "punycode": "^2.3.1",
