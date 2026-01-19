@@ -1,7 +1,7 @@
 import { Alegreya } from "next/font/google";
 import "./globals.css";
 import Header from "./Components/js/Header";
-import Footer from "./Components/js/footer";
+import Footer from "./Components/js/Footer";
 import BackTop from "./Components/js/BackTop";
 
 const font = Alegreya({subsets: ["cyrillic", "latin"]})
